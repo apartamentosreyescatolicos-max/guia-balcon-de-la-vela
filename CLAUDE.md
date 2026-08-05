@@ -5,8 +5,8 @@ Este directorio contiene una **guía digital** para los huéspedes del apartamen
 
 ## Contexto
 - Propietario / gestor: apartamentosreyescatolicos@gmail.com
-- Repositorio remoto: pendiente de crear (previsto: https://github.com/apartamentosreyescatolicos-max/guia-balcon-de-la-vela)
-- Publicación con GitHub Pages: pendiente (URL prevista: https://apartamentosreyescatolicos-max.github.io/guia-balcon-de-la-vela/)
+- Repositorio remoto: https://github.com/apartamentosreyescatolicos-max/guia-balcon-de-la-vela
+- Publicado con GitHub Pages en: https://apartamentosreyescatolicos-max.github.io/guia-balcon-de-la-vela/
 - El repo contiene exclusivamente la guía de El Balcón de la Vela.
 
 ## Convenciones
