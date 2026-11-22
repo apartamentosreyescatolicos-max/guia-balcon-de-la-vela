@@ -159,7 +159,7 @@
   if (typeof L === 'undefined') return;
 
   const POINTS = [
-    { type: "home",    emoji: "🏠", name: "Tu apartamento · Plaza Nueva 1", lat: 37.176787, lon: -3.5965027, q: "Plaza Nueva 1, Granada", pid: "ChIJt5coM7_8cQ0R3Wjr4AcCNtE" },
+    { type: "home",    emoji: "🏠", name: "Tu apartamento · Plaza Nueva 1", lat: 37.176627, lon: -3.596517, q: "37.176627,-3.596517" },
     { type: "parking", emoji: "🅿️", name: "Parking San Agustín",                      lat: 37.1778097, lon: -3.5990428, q: "Parking San Agustín", pid: "ChIJUQganb_8cQ0Rn9Q84bcqqPE" },
     { type: "parking", emoji: "🅿️", name: "Parking APK2 Puerta Real",                 lat: 37.171659, lon: -3.598588, q: "Parking APK2 Puerta Real", pid: "ChIJ_cIXXiv9cQ0Rw6EBpLcqu3c" },
     { type: "parking", emoji: "🅿️", name: "Parking San Juan de Dios",                 lat: 37.1799589, lon: -3.6034918, q: "Parking San Juan de Dios", pid: "ChIJVdzo6er8cQ0RzL6-JSnN5kc" },
